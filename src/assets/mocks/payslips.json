@@ -1,0 +1,38 @@
+[
+    {
+        "id" : "663229",
+        "first_name" : "John",
+        "last_name" : "Doe",
+        "from_date" : "01/11/2023",
+        "to_date" : "30/11/2023",
+        "period" : "November 2023",
+        "gross_amount" : 3970,
+        "net_amount" : 2800,
+        "is_document_available" : true,
+        "document_url" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    },
+    {
+        "id" : "3435322",
+        "first_name" : "John",
+        "last_name" : "Doe",
+        "from_date" : "01/12/2023",
+        "to_date" : "31/12/2023",
+        "period" : "December 2023",
+        "gross_amount" : 3300,
+        "net_amount" : 2500,
+        "is_document_available" : true,
+        "document_url" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    },
+    {
+        "id" : "621431",
+        "first_name" : "John",
+        "last_name" : "Doe",
+        "from_date" : "01/01/2024",
+        "to_date" : "30/01/2024",
+        "period" : "January 2024",
+        "gross_amount" : 3800,
+        "net_amount" : 2900,
+        "is_document_available" : true,
+        "document_url" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    }
+]
